@@ -1,0 +1,8 @@
+div {
+    display: grid;
+    grid-area: auto;
+    .header {
+        align-items: center;
+        justify-content: center;
+    }
+}
